@@ -1,3 +1,3 @@
 # IHC_GAME
 
-Developed with Unreal Engine 5
+Developed with Unreal Engine 5 for VR 
